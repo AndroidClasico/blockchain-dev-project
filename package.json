@@ -16,6 +16,7 @@
     "nodemon": "^2.0.20"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
     "hex-to-binary": "^1.0.1"
   }
 }
