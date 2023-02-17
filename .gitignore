@@ -1,5 +1,4 @@
 node_modules/
 build/
 .env
-package-lock.json/
-pubSubCredentials.js/
+package-lock.json/pubSubCredientials.js
