@@ -1,4 +1,4 @@
-const credentials = require('./pubSubCredentials')
+const credentials = require('../pubSubCredentials')
 const PubNub = require("pubnub");
 
 
